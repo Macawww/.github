@@ -1,2 +1,2 @@
 # Macawww
-### Building the future.
+### By a solo dev, to other solo devs.
