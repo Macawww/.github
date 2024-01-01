@@ -3,4 +3,4 @@
 
 ### www.macawww.com
 
-### https://twitter.com/zeerglehner
+### twitter.com/zeerglehner
